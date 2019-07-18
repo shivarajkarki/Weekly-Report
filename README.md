@@ -30,11 +30,12 @@ solved excercises on
 * Tensor Flow
 
 TensorFlow learning process is deliberate, steady and unrushed, and following these tutorials as well as other literature sources
+
 * Tensor tutorial (edureka)
 * Intro to Tensorflow (udacity)(currently going on)
 
 
 
 convolution neural networks by Andrew ng(currently goin on)
-LeNet-5 implementatoin
-ResNet implementation
+* LeNet-5 implementatoin
+* ResNet implementation
