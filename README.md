@@ -5,13 +5,13 @@ Description of work done so far
 Hi,
 
 This repository contains
-- Description of work that is done weeky
+- Description of work that is done weekly
 - Codes that are coded till now
 - and Miscellaneous
 
 >This repository contains exercises that I have tried till now, and below is the sequence of my learning.
 
-Started with deep learning and neural networks by Andrew ng
+Started with deep learning and neural networks by Andrew Ng
 
 Solved exercises gievn in the course
 
@@ -22,7 +22,7 @@ Solved exercises gievn in the course
 
 
 Next Lesson was on hyperparameter tuning and batch normalization. 
-solved excercises on
+solved exercises on
 * Gradient Checking
 * Initialization
 * Optimization method
