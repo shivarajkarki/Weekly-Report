@@ -11,7 +11,7 @@ This repository contains
 
 >This repository contains exercises that I have tried till now, and below is the sequence of my learning.
 
-Started with deep learning and neural networks by andrew ng
+Started with deep learning and neural networks by Andrew ng
 
 Solved exercises gievn in the course
 
@@ -35,6 +35,6 @@ TensorFlow learning process is deliberate, steady and unrushed, and following th
 
 
 
-convolution neural networks by andrew ng(currently goin on)
+convolution neural networks by Andrew ng(currently goin on)
 LeNet-5 implementatoin
 ResNet implementation
