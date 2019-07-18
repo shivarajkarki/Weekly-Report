@@ -1,5 +1,5 @@
 # Weekly-Report
-### Intended to Bhavani Mahopatra
+### Intended to Bhabani Mahopatra
 Description of work done so far
 
 Hi,
